@@ -1,4 +1,7 @@
 
+// Problem URL - Product - UVA-10106 : https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1047
+// This Problem can also be done using Big Integer
+
 import java.util.Arrays;
 import java.util.Scanner;
 
