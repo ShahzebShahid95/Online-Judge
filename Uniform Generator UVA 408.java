@@ -1,5 +1,5 @@
 
-
+// Problem URL - Uniform Generator - UVA-408 : https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=349
 
 import java.util.Arrays;
 import java.util.Scanner;
