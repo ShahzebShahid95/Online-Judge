@@ -1,5 +1,5 @@
 
-
+// Problem URL - Black and White Painting - UVA-11231 : https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2172
 
 import java.util.Scanner;
 
